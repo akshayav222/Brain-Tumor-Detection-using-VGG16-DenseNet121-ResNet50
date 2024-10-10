@@ -8,7 +8,7 @@ This repository contains a deep learning-based solution for detecting brain tumo
 - **Transfer Learning**: Pre-trained weights are used to fine-tune the models for better accuracy with less data.
 - **Data Augmentation**: Implements various data augmentation techniques to enhance model generalization and address data imbalance.
 - **Imbalanced Dataset Handling**: The dataset used is imbalanced, and techniques like class weighting or oversampling can be used to address this issue.
-- **Performance Metrics**: Includes evaluation metrics such as accuracy, precision, recall, F1-score, and confusion matrix to measure model performance.
+- **Performance Metrics**: Includes evaluation metrics accuracy to measure model performance.
 - **Visualization**: Uses Grad-CAM for visualizing model attention on MRI scans, providing interpretability to the predictions.
 
 ## Requirements
